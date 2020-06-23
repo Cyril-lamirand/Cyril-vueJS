@@ -1,0 +1,153 @@
+<template>
+  <div class="container">
+    <div class="text-center">
+      <img src="cyril-grey.png" alt="Photo de Cyril Lamirand" class="img-cyril">
+      <h1>Cyril Lamirand</h1>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+        <div class="text-center">
+          <b-icon-clipboard-data></b-icon-clipboard-data>
+          <h2>Back-End</h2>
+        </div>
+        <hr class="desktop-mobile">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+           Ad asperiores cupiditate expedita fugiat id ipsam laboriosam maxime, molestiae nulla quod sint tempore.
+           Cumque magni modi odio provident repellat? Debitis, fugit!
+        </p>
+        <hr class="mobile">
+      </div>
+      <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+        <div class="text-center">
+          <b-icon-file-code></b-icon-file-code>
+          <h2>Front-End</h2>
+        </div>
+        <hr class="desktop-mobile">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          Ad asperiores cupiditate expedita fugiat id ipsam laboriosam maxime, molestiae nulla quod sint tempore.
+          Cumque magni modi odio provident repellat? Debitis, fugit!
+        </p>
+        <hr class="mobile">
+      </div>
+      <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+        <div class="text-center">
+          <b-icon-phone></b-icon-phone>
+          <h2>Mobile developer</h2>
+        </div>
+        <hr class="desktop-mobile">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          Ad asperiores cupiditate expedita fugiat id ipsam laboriosam maxime, molestiae nulla quod sint tempore.
+          Cumque magni modi odio provident repellat? Debitis, fugit!
+        </p>
+        <hr class="mobile">
+      </div>
+    </div>
+    <hr class="desktop">
+    <div class="row">
+      <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+        <div class="text-center">
+          <b-icon-briefcase></b-icon-briefcase>
+          <h3>Expériences</h3>
+        </div>
+        <hr class="desktop-mobile">
+        <h5>2020 | Février - Juin | Chef de projet</h5>
+        <ul>
+          <li>Réalisation d'un projet complet pour la marque ROBAIYAT.</li>
+          <li>Gestion d'un groupe de 7 étudiants.</li>
+          <li>Développement d'un site e-Commerce.</li>
+          <li>Mise en place de la stratégie de communication.</li>
+          <li>Projet réalisé dans la cadre de la BAP* du second semestre.</li>
+          <li style="list-style: none;"><small>(*) Bourse Aux Projets</small></li>
+        </ul>
+        <h5>2019 | Oct<span class="hide-r">obre</span> - Déc<span class="hide-r">embre</span> | Technicien DW</h5>
+        <ul>
+          <li>Réalisation d'un site internet pour l'entreprise PHACIL.</li>
+          <li>Mise en place du Front-end du site internet.</li>
+          <li>Création d'un Back-Office sur mesure en PHP.</li>
+          <li>Projet réalisé dans le cadre de la BAP* du premier semestre.</li>
+        </ul>
+        <h5>2019 | Juillet - Août | SOFTLAM <span class="hide-r">Informatique</span></h5>
+        <ul>
+          <li>Stage à la fin de l'année préparatoire.</li>
+          <li>Réalisation et mise en ligne d'un site Wordpress.</li>
+          <li>Développement d'une application Mobile avec WinDev 22.</li>
+        </ul>
+        <h5>2016-18 | Sept<span class="hide-r">embre</span> - Août | SOFTLAM <span class="hide-r">Informatique</span></h5>
+        <ul>
+          <li>Alternance dans la cadre du Baccalauréat Professionnel S.E.N**.</li>
+          <li>Développement de sites internet : eCommerce, Blog, Back-office.</li>
+          <li>Développement d'une application Mobile avec Windev 21.</li>
+          <li>Gestion de projet méthode Agile.</li>
+          <li>Modélisation de données avec Star UML.</li>
+          <li style="list-style: none;"><small>(**) Systèmes Électronique & Numériques</small></li>
+        </ul>
+        <hr>
+
+      </div>
+      <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+        <div class="text-center">
+          <b-icon-award></b-icon-award>
+          <h3>Formations</h3>
+        </div>
+        <hr>
+        <h5>2021-2023 | Projet</h5>
+        <ul>
+          <li>Mastère II - Ingénierie Web & Mobile.</li>
+          <li>Je souhaite réaliser cette formation en alternance.</li>
+          <li>Titre RNCP Niveau 7 « Manager de l’Ingénierie numérique ».</li>
+          <li>Institut de l'Internet et du Multimédia.</li>
+          <li>Pôle Universitaire Leonard de Vinci, Paris La Défense.</li>
+        </ul>
+        <h5>2019 - 2021 | Actuellement</h5>
+        <ul>
+          <li>Bachelor - Développement Web.</li>
+          <li>Titre RNCP Niveau 6 « Chef de Projet Digital ».</li>
+          <li>Institut de l'Internet et du Multimédia.</li>
+          <li>Pôle Universitaire Leonard de Vinci, Paris La Défense.</li>
+        </ul>
+        <h5>2018 - 2019 | L'année dernière</h5>
+        <ul>
+          <li>Année Préparatoire</li>
+          <li>Institut de l'Internet et du Multimédia.</li>
+          <li>Pôle Universitaire Leonard de Vinci, Paris La Défense.</li>
+        </ul>
+
+
+
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'HelloWorld',
+  props: {}
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+  .container{ padding-top: 60px; }
+
+  .b-icon{ font-size: 40px; margin-bottom: 20px; }
+
+  .img-cyril{
+    width: 264px;
+    height: 264px;
+    margin-bottom: 20px;
+    border-radius: 128px;
+    border:3px solid whitesmoke;
+    -webkit-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+  }
+
+  .mobile{ display: none; }
+
+  @media only screen and (max-width: 991.99px) {
+    .desktop { display: none; }
+    .mobile { display: block; }
+  }
+</style>
