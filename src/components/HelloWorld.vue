@@ -82,8 +82,7 @@
           <li>Modélisation de données avec Star UML.</li>
           <li style="list-style: none;"><small>(**) Systèmes Électronique & Numériques</small></li>
         </ul>
-        <hr>
-
+        <hr class="mobile">
       </div>
       <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
         <div class="text-center">
@@ -108,15 +107,88 @@
         </ul>
         <h5>2018 - 2019 | L'année dernière</h5>
         <ul>
-          <li>Année Préparatoire</li>
+          <li>Année Préparatoire.</li>
+          <li>Stage obligatoire à la fin de l'année.</li>
           <li>Institut de l'Internet et du Multimédia.</li>
           <li>Pôle Universitaire Leonard de Vinci, Paris La Défense.</li>
         </ul>
-
-
-
+        <h5>2016 - 2018 | Baccalauréat</h5>
+        <ul>
+          <li>Baccalauréat Professionnel S.E.N(**) en Alternance.</li>
+          <li>Rythme 1 semaine Formation / 1 semaine Entreprise.</li>
+          <li>Obtenu avec mention.</li>
+          <li>CFA IMC Randstad, Paris 1er.</li>
+        </ul>
       </div>
     </div>
+    <hr>
+    <div class="col-12">
+      <div class="text-center">
+        <b-icon-file-code></b-icon-file-code>
+        <h2>Compétences Techniques</h2>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+        <div class="text-center">
+          <h3>Langages Informatiques</h3>
+        </div>
+        <hr>
+        <ul>
+          <li>PHP Procédural</li>
+          <li>PHP Orienté Objet</li>
+          <li>Javascript Natif</li>
+          <li>jQuery</li>
+          <li>JAVA & Kotlin</li>
+          <li>SQL</li>
+          <li>HTML & CSS</li>
+        </ul>
+        <hr class="mobile">
+      </div>
+      <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+        <div class="text-center">
+          <h3>Frameworks</h3>
+        </div>
+        <hr>
+        <ul>
+          <li>Symfony 3 & 4</li>
+          <li>Laravel</li>
+          <li>Vue JS</li>
+          <li>Angular JS</li>
+          <li>React JS</li>
+          <li>Ionic</li>
+          <li>WinDev Mobile 21 & 22</li>
+        </ul>
+        <hr class="mobile">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+        <div class="text-center">
+          <h3>C.M.S (***)</h3>
+        </div>
+        <hr>
+        <ul>
+          <li>Wordpress</li>
+          <li>PrestaShop</li>
+          <li>Drupal</li>
+          <li style="list-style: none;"><small>(***) Content Management System</small></li>
+        </ul>
+      </div>
+      <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+        <div class="text-center">
+          <h3>Logiciels</h3>
+        </div>
+        <hr>
+        <ul>
+          <li>Suite Adobe : PS, AI, XD</li>
+          <li>Suite Microsoft : Word, Excel, Powerpoint, Teams</li>
+          <li>Suite JetBrains : IntelliJ, PhpStorm, WebStorm, Android Studio</li>
+        </ul>
+      </div>
+    </div>
+    <hr>
   </div>
 </template>
 

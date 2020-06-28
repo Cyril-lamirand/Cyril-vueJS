@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-6 left-nav">
           <div class="text-center">
-            <h2>Index</h2>
+            <h2>C.V</h2>
           </div>
         </div>
         <div class="col-6 right-nav">
