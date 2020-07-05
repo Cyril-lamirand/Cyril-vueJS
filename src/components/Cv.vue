@@ -8,25 +8,21 @@
     <div class="row">
       <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
         <div class="text-center">
-          <b-icon-clipboard-data></b-icon-clipboard-data>
+          <b-icon-window></b-icon-window>
           <h2>Back-End</h2>
         </div>
         <hr class="desktop-mobile">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-           Ad asperiores cupiditate expedita fugiat id ipsam laboriosam maxime, molestiae nulla quod sint tempore.
-           Cumque magni modi odio provident repellat? Debitis, fugit!
+        <p>Réaliser un Back-office sur-mesures. J'adapte la solution aux besoins de votre métier et je la rend "user-friendly" afin que vous où vos collaborateurs puissent l'utiliser avec efficacité au quotidien.
         </p>
         <hr class="mobile">
       </div>
       <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
         <div class="text-center">
-          <b-icon-file-code></b-icon-file-code>
+          <b-icon-display></b-icon-display>
           <h2>Front-End</h2>
         </div>
         <hr class="desktop-mobile">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-          Ad asperiores cupiditate expedita fugiat id ipsam laboriosam maxime, molestiae nulla quod sint tempore.
-          Cumque magni modi odio provident repellat? Debitis, fugit!
+        <p>Mettre en place votre charte graphique, réaliser un site internet qui raconte une histoire afin que vos collaborateurs où vos clients aient envie de passer à l'étape suivante avec vous. Adapter à tous les types de support.
         </p>
         <hr class="mobile">
       </div>
@@ -36,9 +32,7 @@
           <h2>Mobile developer</h2>
         </div>
         <hr class="desktop-mobile">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-          Ad asperiores cupiditate expedita fugiat id ipsam laboriosam maxime, molestiae nulla quod sint tempore.
-          Cumque magni modi odio provident repellat? Debitis, fugit!
+        <p>Développer une application mobile hybride (compatible iOS & Android) via le framework Ionic. Utiliser un design qui correspond aux attentes d'un utilisateur et à la manière dont il est habitué à utiliser son téléphone ou sa tablette.
         </p>
         <hr class="mobile">
       </div>
@@ -175,6 +169,7 @@
           <li>Drupal</li>
           <li style="list-style: none;"><small>(***) Content Management System</small></li>
         </ul>
+        <hr class="mobile">
       </div>
       <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
         <div class="text-center">
@@ -182,19 +177,18 @@
         </div>
         <hr>
         <ul>
-          <li>Suite Adobe : PS, AI, XD</li>
+          <li>Suite Adobe : PhotoShop, Illustrator, XD</li>
           <li>Suite Microsoft : Word, Excel, Powerpoint, Teams</li>
           <li>Suite JetBrains : IntelliJ, PhpStorm, WebStorm, Android Studio</li>
         </ul>
       </div>
     </div>
-    <hr>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Cv',
   props: {}
 }
 </script>
